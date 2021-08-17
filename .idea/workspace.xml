@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8416806c-b655-4b6d-9afc-44c7f0bc8914" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1sVnJpDdzBZaTfs8gspWZwWMWxZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\39118\PycharmProjects\BSCOperator\core" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Test">
+    <configuration name="BSCOperator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BSCOperator" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/core" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/core/BSCOperator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ETH" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BSCOperator" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/core" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/core/ETH.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BSCOperator" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/core" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/core/Test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="newTest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BSCOperator" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/core" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/core/newTest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="validation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BSCOperator" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Lib/site-packages/web3/_utils" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Lib/site-packages/web3/_utils/validation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Test" />
+        <item itemvalue="Python.newTest" />
+        <item itemvalue="Python.validation" />
+        <item itemvalue="Python.ETH" />
+        <item itemvalue="Python.BSCOperator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8416806c-b655-4b6d-9afc-44c7f0bc8914" name="Default Changelist" comment="" />
+      <created>1620966554289</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620966554289</updated>
+      <workItem from="1620966555992" duration="24985000" />
+      <workItem from="1621403839836" duration="4099000" />
+      <workItem from="1621410413733" duration="13951000" />
+      <workItem from="1622629144956" duration="9270000" />
+      <workItem from="1623673804704" duration="1201000" />
+      <workItem from="1624330444874" duration="3000" />
+      <workItem from="1624370475332" duration="6000" />
+      <workItem from="1625214051207" duration="3000" />
+      <workItem from="1625654718243" duration="594000" />
+      <workItem from="1626074998273" duration="595000" />
+      <workItem from="1628586385508" duration="595000" />
+      <workItem from="1629099960809" duration="13000" />
+      <workItem from="1629188160005" duration="30000" />
+      <workItem from="1629202578586" duration="310000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2651" y="241" key="#HTTP_Proxy" timestamp="1621407568444">
+      <screen x="1920" y="-1" width="1920" height="1050" />
+    </state>
+    <state x="2651" y="241" key="#HTTP_Proxy/1920.-1.1920.1050/0.0.1920.1050@1920.-1.1920.1050" timestamp="1621407568444" />
+    <state x="2592" y="324" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1620966948027">
+      <screen x="1920" y="-1" width="1920" height="1050" />
+    </state>
+    <state x="2592" y="324" key="#com.intellij.fileTypes.FileTypeChooser/1920.-1.1920.1050/0.0.1920.1050@1920.-1.1920.1050" timestamp="1620966948027" />
+    <state x="2660" y="280" key="FileChooserDialogImpl" timestamp="1623135039458">
+      <screen x="2023" y="-1" width="1817" height="1080" />
+    </state>
+    <state x="2660" y="280" key="FileChooserDialogImpl/2023.-1.1817.1080/103.0.1817.1080@2023.-1.1817.1080" timestamp="1623135039458" />
+    <state x="769" y="437" key="Github.ShareDialog" timestamp="1629203089072">
+      <screen x="0" y="0" width="1817" height="1080" />
+    </state>
+    <state x="769" y="437" key="Github.ShareDialog/-1920.0.1817.1080/0.0.1817.1080@0.0.1817.1080" timestamp="1629203089072" />
+    <state width="1877" height="294" key="GridCell.Tab.0.bottom" timestamp="1623145714276">
+      <screen x="2023" y="-1" width="1817" height="1080" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom/1920.-1.1920.1050/0.0.1920.1050@1920.-1.1920.1050" timestamp="1621923507156" />
+    <state width="1877" height="294" key="GridCell.Tab.0.bottom/2023.-1.1817.1080/103.0.1817.1080@2023.-1.1817.1080" timestamp="1623145714276" />
+    <state width="1877" height="294" key="GridCell.Tab.0.center" timestamp="1623145714276">
+      <screen x="2023" y="-1" width="1817" height="1080" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.center/1920.-1.1920.1050/0.0.1920.1050@1920.-1.1920.1050" timestamp="1621923507156" />
+    <state width="1877" height="294" key="GridCell.Tab.0.center/2023.-1.1817.1080/103.0.1817.1080@2023.-1.1817.1080" timestamp="1623145714276" />
+    <state width="1877" height="294" key="GridCell.Tab.0.left" timestamp="1623145714276">
+      <screen x="2023" y="-1" width="1817" height="1080" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.left/1920.-1.1920.1050/0.0.1920.1050@1920.-1.1920.1050" timestamp="1621923507156" />
+    <state width="1877" height="294" key="GridCell.Tab.0.left/2023.-1.1817.1080/103.0.1817.1080@2023.-1.1817.1080" timestamp="1623145714276" />
+    <state width="1877" height="294" key="GridCell.Tab.0.right" timestamp="1623145714276">
+      <screen x="2023" y="-1" width="1817" height="1080" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.right/1920.-1.1920.1050/0.0.1920.1050@1920.-1.1920.1050" timestamp="1621923507156" />
+    <state width="1877" height="294" key="GridCell.Tab.0.right/2023.-1.1817.1080/103.0.1817.1080@2023.-1.1817.1080" timestamp="1623145714276" />
+    <state width="1877" height="352" key="GridCell.Tab.1.bottom" timestamp="1621332369268">
+      <screen x="1920" y="-1" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.bottom/1920.-1.1920.1050/0.0.1920.1050@1920.-1.1920.1050" timestamp="1621332369268" />
+    <state width="1877" height="352" key="GridCell.Tab.1.center" timestamp="1621332369268">
+      <screen x="1920" y="-1" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.center/1920.-1.1920.1050/0.0.1920.1050@1920.-1.1920.1050" timestamp="1621332369268" />
+    <state width="1877" height="352" key="GridCell.Tab.1.left" timestamp="1621332369268">
+      <screen x="1920" y="-1" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.left/1920.-1.1920.1050/0.0.1920.1050@1920.-1.1920.1050" timestamp="1621332369268" />
+    <state width="1877" height="352" key="GridCell.Tab.1.right" timestamp="1621332369268">
+      <screen x="1920" y="-1" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.right/1920.-1.1920.1050/0.0.1920.1050@1920.-1.1920.1050" timestamp="1621332369268" />
+    <state x="2381" y="168" key="SettingsEditor" timestamp="1621407624875">
+      <screen x="1920" y="-1" width="1920" height="1050" />
+    </state>
+    <state x="2381" y="168" key="SettingsEditor/1920.-1.1920.1050/0.0.1920.1050@1920.-1.1920.1050" timestamp="1621407624875" />
+    <state x="500" y="273" key="Vcs.Push.Dialog.v2" timestamp="1629202848676">
+      <screen x="0" y="0" width="1817" height="1080" />
+    </state>
+    <state x="500" y="273" key="Vcs.Push.Dialog.v2/-1920.0.1817.1080/0.0.1817.1080@0.0.1817.1080" timestamp="1629202848676" />
+    <state x="683" y="429" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1629203033401">
+      <screen x="0" y="0" width="1817" height="1080" />
+    </state>
+    <state x="683" y="429" key="git4idea.remote.GitConfigureRemotesDialog/-1920.0.1817.1080/0.0.1817.1080@0.0.1817.1080" timestamp="1629203033401" />
+    <state x="2543" y="226" width="672" height="678" key="search.everywhere.popup" timestamp="1621417208542">
+      <screen x="1920" y="-1" width="1920" height="1050" />
+    </state>
+    <state x="2543" y="226" width="672" height="678" key="search.everywhere.popup/1920.-1.1920.1050/0.0.1920.1050@1920.-1.1920.1050" timestamp="1621417208542" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/BSCOperator$Test.coverage" NAME="Test Coverage Results" MODIFIED="1623053585938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core" />
+    <SUITE FILE_PATH="coverage/BSCOperator$run.coverage" NAME="run Coverage Results" MODIFIED="1620979640969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bin" />
+    <SUITE FILE_PATH="coverage/BSCOperator$BSCOperator.coverage" NAME="BSCOperator Coverage Results" MODIFIED="1620980376957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core" />
+    <SUITE FILE_PATH="coverage/BSCOperator$ETH.coverage" NAME="ETH Coverage Results" MODIFIED="1621325380103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core" />
+    <SUITE FILE_PATH="coverage/BSCOperator$newTest.coverage" NAME="newTest Coverage Results" MODIFIED="1622629764989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core" />
+    <SUITE FILE_PATH="coverage/BSCOperator$validation.coverage" NAME="validation Coverage Results" MODIFIED="1621332369259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Lib/site-packages/web3/_utils" />
+  </component>
+</project>
